@@ -1,0 +1,13 @@
+804bb419e539a70ad80e4c03df3c3411  contrib.pub
+50fce84f0327ee5c100f66594024b5f2  contrib.rsync.inactive
+4302ffea9d448303374417f5cfb605d2  core-arm64.rsync
+b8dd0aad383810cad920d6548cd1cb56  core.pub
+faedd8944bd5ecc397f73bf73bd624d4  core.rsync
+ff09785708a0f8af34aa5dbe6f8353a2  opt-arm64.rsync
+0d1f1fde50a9bd743d9cac6b235f038c  opt.pub
+eded5385d3637f1918a82f4409abc64a  opt.rsync
+1f178e2bb1beab9782993931c9832280  ports-1.5.tar.gz
+78a76d3e1838a7ec2870b07e0ae746b9  raspberrypi3-arm.rsync
+3c1a462992de8230977707537e6e27f9  xorg-arm64.rsync
+69927e5d0ae5dc3455faeaac916c4db2  xorg.pub
+c24101073a06fc58a02c99bf5d56bea7  xorg.rsync
