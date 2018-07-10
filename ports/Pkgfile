@@ -6,9 +6,9 @@
 
 name=ports
 version=1.5
-release=22
+release=23
 source=(http://crux.nu/files/tools/ports/$name-$version.tar.gz \
-	core.pub opt.pub xorg.pub contrib.pub \
+      	core.pub opt.pub xorg.pub contrib.pub \
         core.rsync opt.rsync xorg.rsync contrib.rsync.inactive \
         raspberrypi3-arm.rsync core-arm64.rsync opt-arm64.rsync xorg-arm64.rsync)
 
