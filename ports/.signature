@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/raspberrypi3-arm.pub
-RWROOThsoDo5hMPyhgrcUx6MlFrErFr9HKo5pkFh0s93n91je4Wx68sY9eEPNbdVPuzYJNST2gXns/mn5izCsId7Bk6ivkz0gws=
-SHA256 (Pkgfile) = 2a6ddff62e2bdc84a0346fd3b9b8fcff89a847213c03851e469683630f56a58c
+RWROOThsoDo5hOYpqwZvF0iHA4w1bXeZleMOix7XC2qj3FOAW99By7ZuD9oWd8CahJDdd3LWrT5e1mQJ9JssaFKSM+7yTPrgewA=
+SHA256 (Pkgfile) = a4c63e1c9b5f26fb7dd52c0652189d523c2913c924a25186785a31c788f682c5
 SHA256 (.footprint) = c0f717604ca68456abf27c78692d6370e7bf0ae26c1497398490fc5e0aa42fac
 SHA256 (ports-1.6.tar.gz) = 8b2ba48e7440f4a71fa1c9c480a1212ce87c623e1d33121eb660829ba294ca94
 SHA256 (core.pub) = 5a08b7f21fb1768b9e639da0b768edb536de0590b75e663dab6d185617613791
