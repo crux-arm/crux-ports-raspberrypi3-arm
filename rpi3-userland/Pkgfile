@@ -1,0 +1,24 @@
+# Description: Source code for ARM side libraries for interfacing to Raspberry Pi GPU.
+# URL: https://github.com/raspberrypi/userland
+# Maintainer:
+# Depends on: cmake
+
+name=rpi3-userland
+version=20190925
+release=1
+commit=13b33c8ee52521ac3c804ffa6d8e8b8a8cd30697
+source=(https://github.com/raspberrypi/userland/archive/$commit/$name-$version.tar.gz)
+
+build() {
+  mkdir build
+  cd build
+  cmake -DCMAKE_BUILD_TYPE=Release \
+    -DARM64=aarch64 \
+    ../userland-$commit
+  make
+  make DESTDIR=$PKG install
+  find $PKG \(\
+    -iname "*readme*" \
+    -o -iname "*license*" \
+    \) -exec rm -fr '{}' \+
+}

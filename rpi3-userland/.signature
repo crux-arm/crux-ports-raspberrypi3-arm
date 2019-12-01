@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/raspberrypi3-arm.pub
+RWROOThsoDo5hK4WJCUUmWTokF/LsuS7VdNwGuEM5ptbw2yGGymmkViQOKpU7RZULSJc2vyY5Er220n1WQdCnGc6hoV4tNBDlQI=
+SHA256 (Pkgfile) = 60882117d402df9b32b61489d13e643a7205b5795ac0e47d3fd43b4b74fa2e38
+SHA256 (.footprint) = 58f7475508dca206d71040df715a0f97179c73762740324373327b6e0d429cf4
+SHA256 (rpi3-userland-20190925.tar.gz) = 1e0d4e7b837c9d36f5e987dd50ffad6d9c091e24e8638356399dba5d45866282
