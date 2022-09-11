@@ -1,6 +1,6 @@
 # crux-ports-raspberrypi3-arm64
 
-CRUX-ARM aarch64 ports overlay for CRUX raspberrypi3 collection
+CRUX-ARM aarch64 ports overlay for CRUX RaspberryPi 3
 
 To use these ports, download the `raspberrypi3-arm64.httpup` file to `/etc/ports`:
 ```
