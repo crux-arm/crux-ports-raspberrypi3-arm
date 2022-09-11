@@ -16,9 +16,9 @@ You may want to list it first in `/etc/prt-get.conf` to take advantage of ports 
 
 # note: the order matters: the package found first is used
 prtdir /usr/ports/raspberrypi3-arm64
-prtdir /usr/ports/core-arm
-prtdir /usr/ports/opt-arm
-prtdir /usr/ports/xorg-arm
+prtdir /usr/ports/core-arm64
+prtdir /usr/ports/opt-arm64
+prtdir /usr/ports/xorg-arm64
 prtdir /usr/ports/core
 prtdir /usr/ports/opt
 prtdir /usr/ports/xorg
