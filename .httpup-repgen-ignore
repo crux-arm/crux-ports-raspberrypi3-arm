@@ -1,4 +1,7 @@
 README.md
-COPYING
-\.git
-*.httpup
+\.git*
+^raspberrypi3\-arm64\.httpup
+*~
+\.*~
+*work
+*.pkg.*
