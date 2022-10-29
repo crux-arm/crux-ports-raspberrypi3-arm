@@ -1,6 +1,7 @@
 untrusted comment: verify with /etc/ports/raspberrypi3-arm.pub
-RWROOThsoDo5hF3QhsJzTOqZL0g0mozGRILXRq7Lyb9FsHGz47kctkI1H1xxkznRLRBMq1nf/rOHyaExdTS5T3hQTn3jeFOgbQo=
-SHA256 (Pkgfile) = f738356332a5c857a7ad9b8fa6ff80a7172c455aa5968505b26e943074ad05ca
-SHA256 (prt-get-5.19.5.tar.xz) = 62ea02fd94eda36fbec45d5ff05fef0dabad159d9478bec1a7ab570f70d0fae3
-SHA256 (prt-get.conf) = a5d28637d904e7a0399a28fe5a886f2f9d83c4613fdf2becebd3c0d708a2c2b2
+RWROOThsoDo5hN1NdM+oU6ZvbdgdlsITlpRDjosTkLzUQ0VkGqHSFM2dz3JAnZDGgL2atXFO6rAkinH9MfZDJg7m+gfyBRpy1AQ=
+SHA256 (Pkgfile) = ade6ded9ff960ea4ab6301beb05a102cc78ac9f948bc2e5360724c11b067736f
+SHA256 (.footprint) = 26802764ae3ae1e1a73ea56c859b3415e250a72ea444af410381df8c8f5d3ac8
+SHA256 (prt-get-5.19.6.tar.xz) = 6ea89df308e19a6239f260c91036805cd2063d0cd24a7427235849634dd49f0d
+SHA256 (prt-get.conf) = 273016a04c7412ea01023285a46451b74d58335a7879549c81e846dbe1e5024e
 SHA256 (prt-get.aliases) = df473d38e59d1d6cd859d986a5d6586fdc54bfd51663313c63a939e941984b7b
