@@ -7,9 +7,9 @@ f:cb96c46c2cf16e2a2f1f13f29f5faab3:prt-get/README
 f:4b37ded312f6b23de1887d598780ccea:prt-get/.signature
 f:fba3b19b1f9ef72c722360b8cfd73c3d:prt-get/Pkgfile
 f:4f6b710e4d2b18c70cfe5e4a593938b7:prt-get/prt-get.aliases
-f:034aa4c70d6a2840c2f84ba141ab2c41:prt-get/prt-get.conf
+f:c38a20a4642f9e21ce3449f725fa4639:prt-get/prt-get.conf
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
-f:7f12ea138d092e9db384cbdd6ba44ec4:pkgutils/.signature
+f:d609b18ed07abe31973321293ef6a749:pkgutils/.signature
 f:16d89f894a71fe3c8a5793de7cf35de1:pkgutils/Pkgfile
 f:3328c25b6bc9ea8f934639f1489b6202:pkgutils/pkgmk.conf
 f:4c9f6a24c4fb9a2a15558e83006ffe0f:rpi3-userland/.footprint
