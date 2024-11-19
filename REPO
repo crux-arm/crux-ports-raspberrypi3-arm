@@ -1,5 +1,6 @@
 d:prt-get
 d:pkgutils
+d:libcap
 d:rpi3-userland
 d:ports
 f:077fea960d8a490412eed744ce9bcc40:prt-get/.footprint
@@ -12,6 +13,9 @@ f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
 f:d609b18ed07abe31973321293ef6a749:pkgutils/.signature
 f:16d89f894a71fe3c8a5793de7cf35de1:pkgutils/Pkgfile
 f:3328c25b6bc9ea8f934639f1489b6202:pkgutils/pkgmk.conf
+f:2d0b1fe0c65f9312d0b90ee1eab8a238:libcap/.footprint
+f:a98fa1b394b8030648b622e14c31faea:libcap/.signature
+f:7a3ca0ff6696ec27c4401a9f2ae0a252:libcap/Pkgfile
 f:4c9f6a24c4fb9a2a15558e83006ffe0f:rpi3-userland/.footprint
 f:859ff7c781fa2cf929127e0f8dfd8d75:rpi3-userland/.signature
 f:5d89368753adc17bb9123fa0a07fa2d1:rpi3-userland/Pkgfile
