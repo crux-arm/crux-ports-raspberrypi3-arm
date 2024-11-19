@@ -1,4 +1,4 @@
-untrusted comment: verify with /etc/ports/raspberrypi3-arm.pub
+untrusted comment: verify with /etc/ports/raspberrypi3-arm64.pub
 RWROOThsoDo5hCfj6l5pVVM6zTRZs0KV+UErkrLbfImYOc1HsOp8DSUlY6+Why5PAxKoPvRNYKmf2sEH3UN66DaVm9Fum/k5mQ8=
 SHA256 (Pkgfile) = 2ec4a98eeeaac2390a1241760344b982e4842fa1bbab1b15102ce7515f1df386
 SHA256 (.footprint) = 7d143f18f63bba5569d729eefd0d0f04ae4b0539f8bd71f9cfd6955b9e7c639d
