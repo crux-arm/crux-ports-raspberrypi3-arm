@@ -1,0 +1,38 @@
+# Description: Linux Kernel for Raspberry Pi 3
+# URL: https://github.com/raspberrypi/linux
+# Maintainer: CRUX-ARM System Team, devel at crux-arm dot nu
+# Depends on:
+
+name=kernel-raspberrypi3
+version=4.10.17
+release=1
+
+source=(https://github.com/raspberrypi/linux/archive/refs/heads/rpi-4.10.y.zip \
+  config-$version)
+
+build() {
+  cd linux-rpi-4.10.y
+
+  # https://lkml.org/lkml/2020/3/31/658 you need the patch in kernels < 5.6
+  sed -e 's|YYLTYPE yylloc;|extern YYLTYPE yylloc;|' \
+      -i scripts/dtc/dtc-lexer.lex.c_shipped
+
+  # kernel8.img
+  make mrproper
+  cp $SRC/config-$version .config
+  make Image.gz
+  install -d -m 0755 $PKG/boot
+  install -m 0644 arch/arm64/boot/Image.gz $PKG/boot/kernel8.img
+
+  # config
+  install -m 0644 .config $PKG/boot/config-$version
+
+  # modules and firmware
+  make modules dtbs
+  install -d -m 0755 $PKG/lib/{firmware,modules}
+  make modules_install INSTALL_MOD_PATH=$PKG
+  rm -f $PKG/lib/modules/*/{source,build}
+  cp arch/arm64/boot/dts/broadcom/*.dtb $PKG/boot
+  install -d -m 0755 $PKG/boot/overlays
+  cp arch/arm64/boot/dts/overlays/*.dtb* $PKG/boot/overlays
+}
