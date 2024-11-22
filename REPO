@@ -1,5 +1,6 @@
 d:prt-get
 d:pkgutils
+d:kernel-raspberrypi3
 d:rpi3-userland
 d:ports
 f:077fea960d8a490412eed744ce9bcc40:prt-get/.footprint
@@ -12,6 +13,10 @@ f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
 f:d609b18ed07abe31973321293ef6a749:pkgutils/.signature
 f:16d89f894a71fe3c8a5793de7cf35de1:pkgutils/Pkgfile
 f:3328c25b6bc9ea8f934639f1489b6202:pkgutils/pkgmk.conf
+f:e04ec5144b852930b95fcce444e17f4b:kernel-raspberrypi3/.footprint
+f:30c86b802ad79d8683a008028b8ec427:kernel-raspberrypi3/.signature
+f:c720298528cfc2010ea246ed40d7aec6:kernel-raspberrypi3/Pkgfile
+f:a620917d80b9b1916a7cf4d26a64519c:kernel-raspberrypi3/config-4.10.17
 f:4c9f6a24c4fb9a2a15558e83006ffe0f:rpi3-userland/.footprint
 f:859ff7c781fa2cf929127e0f8dfd8d75:rpi3-userland/.signature
 f:5d89368753adc17bb9123fa0a07fa2d1:rpi3-userland/Pkgfile
