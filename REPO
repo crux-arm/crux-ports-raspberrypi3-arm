@@ -1,8 +1,10 @@
 d:prt-get
 d:pkgutils
+d:libdrm
 d:kernel-raspberrypi3
 d:rpi3-userland
 d:ports
+d:mesa
 f:077fea960d8a490412eed744ce9bcc40:prt-get/.footprint
 f:cb96c46c2cf16e2a2f1f13f29f5faab3:prt-get/README
 f:4b37ded312f6b23de1887d598780ccea:prt-get/.signature
@@ -13,10 +15,13 @@ f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
 f:d609b18ed07abe31973321293ef6a749:pkgutils/.signature
 f:16d89f894a71fe3c8a5793de7cf35de1:pkgutils/Pkgfile
 f:3328c25b6bc9ea8f934639f1489b6202:pkgutils/pkgmk.conf
-f:e04ec5144b852930b95fcce444e17f4b:kernel-raspberrypi3/.footprint
-f:30c86b802ad79d8683a008028b8ec427:kernel-raspberrypi3/.signature
+f:7c997bd90e9052283633313520e48e61:libdrm/.footprint
+f:e59598af95960894d624c1bfc0f4130f:libdrm/.signature
+f:24ab751066eb7353271d578383cc295f:libdrm/Pkgfile
+f:740b5e4c962cbb0a789537ecdda0c4e3:kernel-raspberrypi3/.footprint
+f:91827ab5700540acc8cd0098bed2d183:kernel-raspberrypi3/.signature
 f:c720298528cfc2010ea246ed40d7aec6:kernel-raspberrypi3/Pkgfile
-f:a620917d80b9b1916a7cf4d26a64519c:kernel-raspberrypi3/config-4.10.17
+f:47948e556bd895dbfc273d8f2eb1a244:kernel-raspberrypi3/config-4.10.17
 f:4c9f6a24c4fb9a2a15558e83006ffe0f:rpi3-userland/.footprint
 f:859ff7c781fa2cf929127e0f8dfd8d75:rpi3-userland/.signature
 f:5d89368753adc17bb9123fa0a07fa2d1:rpi3-userland/Pkgfile
@@ -41,3 +46,6 @@ f:bceca3aa28a0ee00f14e5634251a8322:ports/core.rsync
 f:441330fe7eb6970873d287b0d38f83f6:ports/opt.rsync
 f:560170f7f812563a91f53b3893eee297:ports/opt-arm64.httpup
 f:804bb419e539a70ad80e4c03df3c3411:ports/contrib.pub
+f:32660f76361a9d71d00cb8d78c792744:mesa/.footprint
+f:47b8766c8f338c0bed0c3400c44afc73:mesa/.signature
+f:bd1fe3978a791847a0349d969b69b04f:mesa/Pkgfile
