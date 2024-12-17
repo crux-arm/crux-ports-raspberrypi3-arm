@@ -46,6 +46,9 @@ f:bceca3aa28a0ee00f14e5634251a8322:ports/core.rsync
 f:441330fe7eb6970873d287b0d38f83f6:ports/opt.rsync
 f:560170f7f812563a91f53b3893eee297:ports/opt-arm64.httpup
 f:804bb419e539a70ad80e4c03df3c3411:ports/contrib.pub
-f:32660f76361a9d71d00cb8d78c792744:mesa/.footprint
-f:47b8766c8f338c0bed0c3400c44afc73:mesa/.signature
-f:bd1fe3978a791847a0349d969b69b04f:mesa/Pkgfile
+f:50d5632b3ee6010bf78b5fbe0f38589b:mesa/.footprint
+f:2403ed6e28b53fd0d24584d239c0db18:mesa/.signature
+f:7e1080546c514670fc44bf6998185490:mesa/0002-egl-wayland-only-supply-LINEAR-modifier-when-support.patch
+f:d42da4fac1bd29b5041d7f2c6b0c3c0c:mesa/Pkgfile
+f:c9e9413519fc1715942c928ec8b19460:mesa/0001-dri-don-t-fetch-X11-modifiers-if-we-don-t-support-th.patch
+f:cf566dbb30c12b56c27e3b4ea3513037:mesa/0003-egl-wayland-fallback-to-implicit-modifiers-if-advert.patch
