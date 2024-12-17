@@ -1,5 +1,8 @@
-untrusted comment: verify with /etc/ports/raspberrypi3-arm64.pub
-RWROOThsoDo5hGDVLW/QNFwxmoAaYevp0cquWcogPNqstlHXgv8q1GJ2J+zXiCGeD5+yxcS5zVdwxix45I95LUxSKO3a+alKNQM=
-SHA256 (Pkgfile) = 76ef46c2587a3a206d29916de6d76e42aca494b883bd11acf8583cfa98c0cc77
-SHA256 (.footprint) = 081c60455800fbdaaa8fd5ac5a20dbaa973aab62067883ff88ac96aff9a74102
+untrusted comment: verify with /etc/ports/xorg-arm64.pub
+RWQK42WfXMUBTOpk/u6w65y16GyEG6hpmlc+J+z0QooTB02Z2URbDLKv8UKitBr8J1zOweKHQZ2QRy0vVVWPL9ywceNGOqKCgQ4=
+SHA256 (Pkgfile) = 28e899719115a2ce613b40c8ac3d9f426ffb270b6e0703b1b75c6a34c0fca7fd
+SHA256 (.footprint) = 7794c57553caeac3a4f74073ba6468189852f6ce4a08eed86ad547b67cdfcea6
 SHA256 (mesa-24.3.1.tar.xz) = 9c795900449ce5bc7c526ba0ab3532a22c3c951cab7e0dd9de5fcac41b0843af
+SHA256 (0001-dri-don-t-fetch-X11-modifiers-if-we-don-t-support-th.patch) = 2c20fee505be9a1f08546b63457b8378b0f1fcff58e60c03378b7de0a87a1e81
+SHA256 (0002-egl-wayland-only-supply-LINEAR-modifier-when-support.patch) = a58e6d0631da6dd077530136bb44f0233cd279fc75e3b65b495ec90be16db91a
+SHA256 (0003-egl-wayland-fallback-to-implicit-modifiers-if-advert.patch) = 606acb4073f46c7ca7edec96b6af06619642f3bbcd6afab2c57bff26266b917f
