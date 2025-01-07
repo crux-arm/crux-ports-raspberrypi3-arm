@@ -43,10 +43,10 @@ f:cb96c46c2cf16e2a2f1f13f29f5faab3:prt-get/README
 f:c38a20a4642f9e21ce3449f725fa4639:prt-get/prt-get.conf
 f:7e1080546c514670fc44bf6998185490:mesa/0002-egl-wayland-only-supply-LINEAR-modifier-when-support.patch
 f:cf566dbb30c12b56c27e3b4ea3513037:mesa/0003-egl-wayland-fallback-to-implicit-modifiers-if-advert.patch
-f:92c834617e1b3c09c5b39a1cfb7d983a:mesa/.footprint
-f:cefc228e172b7e20cd17964049e83b6f:mesa/Pkgfile
+f:167dd147bf0516cd96bf23ac09293aa2:mesa/.footprint
+f:6ce0c31619416b7bbf6bce1858eefe48:mesa/Pkgfile
 f:c9e9413519fc1715942c928ec8b19460:mesa/0001-dri-don-t-fetch-X11-modifiers-if-we-don-t-support-th.patch
-f:6df29d6cc1f331b33c9d8ccf172b9462:mesa/.signature
+f:0207fe9717792d600293e973fbde5b81:mesa/.signature
 f:740b5e4c962cbb0a789537ecdda0c4e3:kernel-raspberrypi3/.footprint
 f:c720298528cfc2010ea246ed40d7aec6:kernel-raspberrypi3/Pkgfile
 f:47948e556bd895dbfc273d8f2eb1a244:kernel-raspberrypi3/config-4.10.17
