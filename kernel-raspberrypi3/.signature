@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/raspberrypi3-arm64.pub
+RWROOThsoDo5hPrubOlYTv3RxKR+3gnWOzdDPFELGIrzbUYd7bvvxcUSVWER4zLHRjFjx3V3qvij0kRlGnOblhVx0jlnySYG4gI=
+SHA256 (Pkgfile) = 70c98ef011961c2bbd726e2f2e8be91df4c9262a84da11691af9345db4a17748
+SHA256 (.footprint) = f7d18b1a19804680e0b31dc2abc7e2979b8b5b75367bb21e66f0f260faafd884
+SHA256 (rpi-4.10.y.zip) = 852981032d2ad5edc7a34268917ba28762b36d4ae500d79eb725d3e346454075
+SHA256 (config-4.10.17) = d0ed457a206cdefcf0c3a60ff66b367c0d05abbc1f58a57685c1bd5f2346adc8
